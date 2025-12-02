@@ -16,6 +16,14 @@ This project focuses on applying:
 ## 🛠️ Built With
 - C++
 
+
+## ✅ What I Practiced
+- Using switch-case (or if/else) to handle multiple operations
+- Reading numbers safely from the user
+- Handling edge cases like division by zero
+- Writing a menu-based loop (repeat until exit)
+- Splitting operations into functions for clarity
+
 ## 🧩 Example
 
 ```text
@@ -30,13 +38,5 @@ A = 10
 B = 2
 
 Result = 5
-
-
-## ✅ What I Practiced
-- Using switch-case (or if/else) to handle multiple operations
-- Reading numbers safely from the user
-- Handling edge cases like division by zero
-- Writing a menu-based loop (repeat until exit)
-- Splitting operations into functions for clarity
 
 
