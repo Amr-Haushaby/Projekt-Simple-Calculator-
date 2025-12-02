@@ -26,17 +26,14 @@ This project focuses on applying:
 
 ## 🧩 Example
 
-```text
-Choose Operation:
-1) +
-2) -
-3) *
-4) /
-Enter: 4
+Choose Operation:  
+1) +  
+2) -  
+3) *  
+4) /  
+Enter: <kbd>4</kbd>
 
-A = 10
-B = 2
+A = <kbd>10</kbd>  
+B = <kbd>2</kbd>
 
 Result = 5
-
-
