@@ -15,8 +15,10 @@ This project focuses on applying:
 
 ## 🛠️ Built With
 - C++
+
 ## 🧩 Example
 
+```text
 Choose Operation:
 1) +
 2) -
@@ -28,6 +30,7 @@ A = 10
 B = 2
 
 Result = 5
+
 
 ## ✅ What I Practiced
 - Using switch-case (or if/else) to handle multiple operations
