@@ -35,7 +35,7 @@ Choose Operation:
 4) /
 Enter: 4
 
-A = <kbd>10</kbd>
+A = 10
 B = 2
 
 Result = 5
