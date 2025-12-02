@@ -33,6 +33,7 @@ Choose Operation:
 2) -
 3) *
 4) /
+
 Enter: 4
 
 A = 10
