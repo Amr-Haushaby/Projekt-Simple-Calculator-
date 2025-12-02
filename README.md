@@ -15,7 +15,7 @@ This project focuses on applying:
 
 ## 🛠️ Built With
 - C++
-## 🧩 Example (ASCII)
+## 🧩 Example
 
 Choose Operation:
 1) +
