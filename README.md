@@ -25,15 +25,17 @@ This project focuses on applying:
 - Splitting operations into functions for clarity
 
 ## 🧩 Example
+## 🧩 Example
 
-Choose Operation:  
-1) +  
-2) -  
-3) *  
-4) /  
-Enter: <kbd>4</kbd>
+```text
+Choose Operation:
+1) +
+2) -
+3) *
+4) /
+Enter: 4
 
-A = <kbd>10</kbd>  
-B = <kbd>2</kbd>
+A = <kbd>10</kbd>
+B = 2
 
 Result = 5
