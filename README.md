@@ -25,7 +25,6 @@ This project focuses on applying:
 - Splitting operations into functions for clarity
 
 ## 🧩 Example
-## 🧩 Example
 
 ```text
 Choose Operation:
